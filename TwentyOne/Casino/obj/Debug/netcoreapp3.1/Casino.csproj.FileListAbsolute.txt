@@ -1,0 +1,4 @@
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\Casino\obj\Debug\netcoreapp3.1\Casino.csprojAssemblyReference.cache
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\Casino\obj\Debug\netcoreapp3.1\Casino.AssemblyInfoInputs.cache
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\Casino\obj\Debug\netcoreapp3.1\Casino.AssemblyInfo.cs
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.CoreCompileInputs.cache
