@@ -10,9 +10,9 @@ These are some examples of sample projects I made using C# and .NET Framework.
 
 ### Car Insurance Quote
 
-This is a simple web application that takes on a user's information and provides a quote based off the given information. It also stores the quotes to a database.
+This is a simple web application that takes in a user's information and provides a quote based off the given information. There is also an admin page that lets the admin view all of the submitted information and quotes.
 
 ### BlackJack
 
-A simple game of BlackJack played in the console. Allow's users to place bets on the hands dealt and keeps track of their winnings until they close the application.
+A simple game of BlackJack played in the console. The program allows the user to play against the dealer and place bets on their hand.
 
